@@ -8,6 +8,11 @@
                 <img alt="Python" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
             </a>
         </td>
+        <td>
+            <a title="Unity C#" href="https://cdnlogo.com/logos/c/27/c.svg">
+                <img alt="Unity C#" height="24px" src="https://cdnlogo.com/logos/c/27/c.svg" />
+            </a>
+        </td>
         </tr>
     <tr>
         <td><em>	:blue_book: Stuff I always use...</em></td>
