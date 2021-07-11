@@ -41,7 +41,7 @@
     <em>
         :e-mail: If you want to contact me, you can do so at boxledmc@gmail.com or on             <a title="Discord" href="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png">
                 <img alt="Discord" height="24px" src="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png" />
-            </a>, Boxled#0069 :e-mail:
+            </a>, Boxled#5555 :e-mail:
     </em>
 </p>
 
