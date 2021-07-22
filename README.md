@@ -26,8 +26,8 @@
                 <img alt="Discord" height="24px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/unity.svg" />
         </td>
         <td>
-            <a title="Opera GX" href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Opera_GX_Icon.svg/1200px-Opera_GX_Icon.svg.png">
-                <img alt="Opera GX" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Opera_GX_Icon.svg/1200px-Opera_GX_Icon.svg.png" />
+            <a title="Firefox" href="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png">
+                <img alt="Firefox" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png" />
         </td>
         <td>
             <a title="Codewars" href="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67">
