@@ -13,6 +13,11 @@
                 <img alt="Unity C#" height="24px" src="https://cdnlogo.com/logos/c/27/c.svg" />
             </a>
         </td>
+        <td>
+            <a title="HTML" href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">
+                <img alt="HTML" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
+            </a>
+        </td>
         </tr>
     <tr>
         <td><em>	:blue_book: Stuff I always use...</em></td>
