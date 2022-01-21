@@ -1,5 +1,6 @@
 # 👋 **Hey, I’m Boxled!**
-
+I don't really use GitHub often, I just made an account so I could collaborate on certain projects and have a website.
+<!--
 <table>
     <tr>
         <td><em>	:keyboard: I can code in...</em></td>
@@ -41,12 +42,12 @@
 </table>
 
 <hr />
-
+-->
 <p align="center">
     <em>
         :e-mail: If you want to contact me, you can do so at boxledmc@gmail.com or on             <a title="Discord" href="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png">
                 <img alt="Discord" height="24px" src="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png" />
-            </a>, Boxled#5555 :e-mail:
+            </a>, Boxled#6969 :e-mail:
     </em>
 </p>
 
