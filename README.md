@@ -47,7 +47,7 @@ I don't really use GitHub often, I just made an account so I could collaborate o
     <em>
         :e-mail: If you want to contact me, you can do so at boxledmc@gmail.com or on             <a title="Discord" href="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png">
                 <img alt="Discord" height="24px" src="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png" />
-            </a>, Boxled#6969 :e-mail:
+            </a>, Boxled#2329 :e-mail:
     </em>
 </p>
 
