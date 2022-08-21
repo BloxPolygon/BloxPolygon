@@ -1,4 +1,4 @@
-# 👋 **Hey, I’m Boxled!**
+# **hello it me boxled**
 I don't really use GitHub often, I just made an account so I could collaborate on certain projects and have a website.
 <!--
 <table>
