@@ -42,14 +42,15 @@ I don't really use GitHub often, I just made an account so I could collaborate o
 </table>
 
 <hr />
--->
+
 <p align="center">
     <em>
-        :e-mail: boxledcontact@gmail.com // <a title="Discord" href="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png">
+        :e-mail: boxledcontact@gmail.com / <a title="Discord" href="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png">
                 <img alt="Discord" height="24px" src="https://pbs.twimg.com/media/EEqW__MX4AI7jXv.png" />
             </a> Aqua#4515 :e-mail:
     </em>
 </p>
+-->
 
 
 <!---
